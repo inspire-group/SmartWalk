@@ -1,5 +1,5 @@
 # SmartWalk
-SmartWalk is a security enhancing system which incorporates adaptive random walks in social network security applications. We utilize a set of supervised machine learning techniques to predict the necessary random walk length based on the structural characteristics of a social graph. 
+This repository contains code for SmartWalk: SmartWalk: Enhancing Social Network Security via Adaptive Random Walks. SmartWalk is a security enhancing system which incorporates adaptive random walks in social network security applications. We utilize a set of supervised machine learning techniques to predict the necessary random walk length based on the structural characteristics of a social graph. 
 
 ## Usage
 1. computeMixingTime.cpp
